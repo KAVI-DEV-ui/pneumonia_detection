@@ -168,12 +168,7 @@ python pneumonia_detection.py
 ```
 📁 AI-Detection-System-Pneumonia/
 │
-├── pneumonia_detection.py       # Main training & evaluation script
-├── dataset/                     # Chest X-ray dataset
-├── models/                      # Saved trained models
-├── notebooks/                   # Jupyter notebooks (EDA & experiments)
-├── assets/                      # Sample images, plots
-├── requirements.txt             # Dependencies
+├── pneumonia-detection-from-chest-x-ray-images.py       # Main training & evaluation script
 └── README.md                    # Project documentation
 ```
 
